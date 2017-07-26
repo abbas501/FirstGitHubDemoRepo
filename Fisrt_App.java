@@ -5,3 +5,7 @@ class First_AppFior
         System.out.println("Sample Program in Java in Git Hub Repository");
     }
 }
+/*
+O/P: 
+Sample Program in Java in Git Hub Repository
+*/
